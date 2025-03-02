@@ -33,8 +33,8 @@ The BlinkIt Power BI Project provides a data-driven analysis of sales performanc
 - `Data Sources/` - Folder containing raw and processed data.
 - `README.md` - Project documentation.
 - `Screenshots/` - Sample images of the Power BI dashboard.
-- 'Blinkit SQL Query/' - SQL documentation
-- 'Blinkit SQL/' - The main SQL file
+- `Blinkit SQL Query/` - SQL documentation
+- `Blinkit SQL` - The main SQL file
 
 ## 🚀 How to Use
 1. **Clone the repository:**
