@@ -39,7 +39,7 @@ The BlinkIt Power BI Project provides a data-driven analysis of sales performanc
 ## 🚀 How to Use
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/deepa115/blinkit-powerbi.git
+         https://github.com/deepa115/blinkit-powerbi.git
    ```
 2. **Open the Power BI file:** Load `BlinkIt Power BI Report.pbix` in Power BI Desktop.
 3. **Explore the dashboard:** Use filters to analyze data across different metrics.
