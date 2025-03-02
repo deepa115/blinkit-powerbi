@@ -1,5 +1,5 @@
-# blinkit-powerbi
-# BlinkIt Power BI Project
+# blinkit-powerbi-sql
+# BlinkIt Power BI and SQL Project
 
 ## 📌 Project Overview
 The BlinkIt Power BI Project provides a data-driven analysis of sales performance, outlet characteristics, and item distribution for BlinkIt, India's last-minute delivery app. This dashboard helps stakeholders understand key sales metrics, outlet trends, and item sales distribution across different categories and locations.
@@ -33,6 +33,8 @@ The BlinkIt Power BI Project provides a data-driven analysis of sales performanc
 - `Data Sources/` - Folder containing raw and processed data.
 - `README.md` - Project documentation.
 - `Screenshots/` - Sample images of the Power BI dashboard.
+- 'Blinkit SQL Query' - SQL documentation
+- 'Blinkit SQL' - The main SQL file
 
 ## 🚀 How to Use
 1. **Clone the repository:**
@@ -41,10 +43,12 @@ The BlinkIt Power BI Project provides a data-driven analysis of sales performanc
    ```
 2. **Open the Power BI file:** Load `BlinkIt Power BI Report.pbix` in Power BI Desktop.
 3. **Explore the dashboard:** Use filters to analyze data across different metrics.
+4. **Open the SQL file:** Load 'Blinkit SQL' in Microsoft SQL Server Query.
 
 ## 📌 Requirements
 - Power BI Desktop (latest version)
 - Access to the dataset (Excel)
+- Microsoft SQL Server
 
 ## 📧 Contact
 For any queries, feel free to reach out:
